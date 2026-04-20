@@ -199,9 +199,9 @@ git push origin team/your-team-name
 
 The server automatically compiles, tests, and benchmarks your code.
 
-**Check status:** `curl http://SERVER_URL/api/status/your-team-name`
+**Check status:** `curl http://3.10.192.154:8000/api/status/your-team-name`
 
-**Leaderboard:** `http://SERVER_URL/`
+**Leaderboard:** `[http://3.10.192.154:8000/](http://3.10.192.154:8000/)`
 
 **Rate limit:** 1 submission per 2 minutes.
 
